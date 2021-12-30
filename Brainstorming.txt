@@ -1,0 +1,5 @@
+complications that is needed to be solved.
+
+Visiting the doctor for simple issues is sometimes not necessary,it can be difficult to get an appointment, but even the miniature things needs to be treated.
+To solve this, we have come up with an app that will suggest simple cures for these little health difficulties, for example : click on headaches to find that
+the app is advising you to take iboprofen for pain reliefs.We will be building this using React-native.
